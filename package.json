@@ -1,0 +1,26 @@
+{
+  "name": "sequelizedBurger",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaekaetea/sequelizedBurger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaekaetea/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/jaekaetea/sequelizedBurger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.18.1",
+    "sequelize-cli": "^5.5.1"
+  }
+}

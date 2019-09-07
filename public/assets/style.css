@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #ffcc66;
+}
+
+h1 {
+    color: red;
+}
+
+form {
+    width:35%;
+    margin: auto;
+}
+
+button {
+    margin: 10px 0;
+}
